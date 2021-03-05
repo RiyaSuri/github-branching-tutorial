@@ -1,0 +1,2 @@
+I am small person
+.This is a basic template that we are going to consider  git branching and merging 
